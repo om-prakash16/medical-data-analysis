@@ -1,4 +1,4 @@
-# medical-data-analysis
+# Medical-data-analysis
 Medical Data Analysis
 This code analyzes a medical dataset (in a CSV file named "medical_records.csv").
 
